@@ -1,17 +1,23 @@
 # 💫 About Me:
-Hi! I'm **Filopater Hany**, a Junior AI Engineer currently pursuing a degree in **Computer Science and Artificial Intelligence** at **Pharos University** in Alexandria. I'm passionate about creating intelligent solutions and transforming innovative ideas into real-world applications.
+# Filopater Hany
 
-### 🔧 Technical Skills:
-- **AI & Machine Learning**: Proficient in **SAS Machine Learning** with certifications in **Machine Learning** and **Deep Learning** from **Stanford University**.
-- **Mobile Development**: Hands-on experience with **Flutter** for building mobile applications.
-- **Embedded Systems**: Proficient in **Embedded C with AVR**, focusing on embedded systems development.
-- **Robotics**: Skilled in **ROS (Robot Operating System)**, contributing to automation and AI-driven robotics projects.
+**Junior AI Engineer | Mobile App Developer | Embedded Systems Enthusiast**
 
-I am constantly learning and exploring new technologies, always looking for opportunities to collaborate and innovate in AI, machine learning, and embedded systems.
+I am Filopater Hany, currently pursuing a degree in **Computer Science and Artificial Intelligence** at **Pharos University in Alexandria**. With a passion for technology and innovation, I specialize in **AI**, **Machine Learning**, and **Mobile App Development**, consistently working towards transforming ideas into intelligent, scalable solutions.
+
+### Technical Expertise:
+- **Artificial Intelligence**: Proficient in building AI models using **SAS Machine Learning**. Certified in **Machine Learning** and **Deep Learning** from **Stanford University**.
+- **Mobile App Development**: Experienced in developing cross-platform mobile applications using **Flutter**.
+- **Embedded Systems**: Strong proficiency in **Embedded C with AVR**, designing and implementing embedded solutions.
+- **Robotics**: Skilled in **ROS (Robot Operating System)**, with experience in robotic system automation and control.
+
+I thrive on solving complex problems and am always seeking opportunities to innovate at the intersection of AI, robotics, and embedded systems.
 
 ---
 
-Feel free to connect or check out my projects! 🚀
+### Let's Connect:
+- Feel free to explore my repositories or reach out for collaboration on AI, mobile development, or embedded systems projects.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Felo Hany) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/filo_hany_15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/filo-hany) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Felo Hany) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@http://www.youtube.com/@-so7abElkora-uc5yn) 
