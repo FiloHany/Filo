@@ -1,10 +1,9 @@
 # 💫 About Me:
 My name is Filopater Hany, a passionate and driven Junior AI Engineer currently pursuing a degree in Computer Science and Artificial Intelligence at Pharos University in Alexandria. With a solid foundation in AI technologies, I specialize in developing intelligent solutions that bridge the gap between innovative ideas and real-world applications.
 
-I have hands-on experience in ROS and Flutter, contributing to mobile app development, and am proficient in SAS Machine Learning. My technical expertise extends to building AI-driven systems and enhancing automation. I hold certifications in Machine Learning and Deep Learning from Stanford University, further fueling my commitment to staying at the forefront of technology.
+I have hands-on experience in ROS and Flutter, contributing to mobile app development, and am proficient in SAS Machine Learning. Additionally, I have strong expertise in Embedded C with AVR, allowing me to work seamlessly in embedded systems development. I also hold certifications in Machine Learning and Deep Learning from Stanford University, further fueling my commitment to staying at the forefront of technology.
 
-I am always eager to collaborate and push the boundaries of what AI and machine learning can achieve.
-
+I am always eager to collaborate and push the boundaries of what AI, machine learning, and embedded systems can achieve
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Felo Hany) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/filo_hany_15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/filo-hany) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Felo Hany) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@http://www.youtube.com/@-so7abElkora-uc5yn) 
