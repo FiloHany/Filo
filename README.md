@@ -1,5 +1,9 @@
 # 💫 About Me:
-Junior AI Engineer | ROS & Flutter | Mobile App Developer | <br>Proficient in SAS Machine Learning | <br>Transforming Ideas into Intelligent Solutions
+My name is Filopater Hany, a passionate and driven Junior AI Engineer currently pursuing a degree in Computer Science and Artificial Intelligence at Pharos University in Alexandria. With a solid foundation in AI technologies, I specialize in developing intelligent solutions that bridge the gap between innovative ideas and real-world applications.
+
+I have hands-on experience in ROS and Flutter, contributing to mobile app development, and am proficient in SAS Machine Learning. My technical expertise extends to building AI-driven systems and enhancing automation. I hold certifications in Machine Learning and Deep Learning from Stanford University, further fueling my commitment to staying at the forefront of technology.
+
+I am always eager to collaborate and push the boundaries of what AI and machine learning can achieve.
 
 
 ## 🌐 Socials:
