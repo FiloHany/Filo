@@ -1,9 +1,17 @@
 # 💫 About Me:
-My name is Filopater Hany, a passionate and driven Junior AI Engineer currently pursuing a degree in Computer Science and Artificial Intelligence at Pharos University in Alexandria. With a solid foundation in AI technologies, I specialize in developing intelligent solutions that bridge the gap between innovative ideas and real-world applications.
+Hi! I'm **Filopater Hany**, a Junior AI Engineer currently pursuing a degree in **Computer Science and Artificial Intelligence** at **Pharos University** in Alexandria. I'm passionate about creating intelligent solutions and transforming innovative ideas into real-world applications.
 
-I have hands-on experience in ROS and Flutter, contributing to mobile app development, and am proficient in SAS Machine Learning. Additionally, I have strong expertise in Embedded C with AVR, allowing me to work seamlessly in embedded systems development. I also hold certifications in Machine Learning and Deep Learning from Stanford University, further fueling my commitment to staying at the forefront of technology.
+### 🔧 Technical Skills:
+- **AI & Machine Learning**: Proficient in **SAS Machine Learning** with certifications in **Machine Learning** and **Deep Learning** from **Stanford University**.
+- **Mobile Development**: Hands-on experience with **Flutter** for building mobile applications.
+- **Embedded Systems**: Proficient in **Embedded C with AVR**, focusing on embedded systems development.
+- **Robotics**: Skilled in **ROS (Robot Operating System)**, contributing to automation and AI-driven robotics projects.
 
-I am always eager to collaborate and push the boundaries of what AI, machine learning, and embedded systems can achieve
+I am constantly learning and exploring new technologies, always looking for opportunities to collaborate and innovate in AI, machine learning, and embedded systems.
+
+---
+
+Feel free to connect or check out my projects! 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Felo Hany) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/filo_hany_15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/filo-hany) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Felo Hany) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@http://www.youtube.com/@-so7abElkora-uc5yn) 
